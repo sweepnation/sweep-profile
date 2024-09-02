@@ -26,8 +26,7 @@
         var style = document.createElement('style');
         style.textContent = `
             #sweepButton {
-                font-size: 50px;
-                /* Optional: you can add more styling here if needed */
+                font-size: 20px;
             }
         `;
         document.head.appendChild(style);
